@@ -1,3 +1,0 @@
-# CYDATABASE
-
-## rational database 
